@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moon. I am a biochemist for a genomics company. I mostly use python but also work with R relatively frequently
+- 👋 Hi, I’m Dylan. I am a biochemist for a genomics company. I mostly use python but also work with R relatively frequently
 - 👀 I’m interested in ... ecology, genomics, evolution and the ability of genetic elements to "move" and change in short periods of time. I'm trying to improve my coding experience through small pet projects
 - 🌱 I’m currently learning ... biopython, rosetta, and other forms of python directed bioinformatics. 
 - 💞️ I’m looking to collaborate on ... anything! I'm relatively new to coding and don't have many opportunities to practice at work but always looking for 
